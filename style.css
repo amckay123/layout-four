@@ -1,0 +1,49 @@
+div {
+    border: dashed purple;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-template-rows: ;
+}
+
+.logo {
+    grid-column: ;
+    grid-row: ;
+    background-color: ;
+}
+
+.navigation {
+    grid-column: ;
+    grid-row: ;
+    background-color: ;
+}
+
+.boxone {
+    grid-column: ;
+    grid-row: ;
+    background-color: ;
+}
+
+.boxtwo {
+    grid-column: ;
+    grid-row: ;
+    background-color: ;
+}
+
+.boxthree {
+    grid-column: ;
+    grid-row: ;
+    background-color: ;
+}
+
+.footer {
+    grid-column: ;
+    grid-row: ;
+    background-color: ;
+}
+
+.flexcontainer {
+
+}
